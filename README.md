@@ -2,8 +2,8 @@
 
 Description
 -
-	Entire EN layout is still available via Ctrl+Alt, Ctrl+Alt+Shift,
-	 e.g. Ctrl+Alt+1 gives you '1', Ctrl+Alt+Shift+1 - '!'.
+	Entire EN layout is available inside this layout for convenience via Ctrl+Alt, Ctrl+Alt+Shift,
+	 e.g. Ctrl+Alt+1 gives you '1', Ctrl+Alt+Shift+1 - '!'... etc
 
 	Volume keys can be mapped using PowerToys official Microsoft app.
 
