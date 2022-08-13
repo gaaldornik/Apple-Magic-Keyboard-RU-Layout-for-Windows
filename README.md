@@ -2,6 +2,8 @@
 
 Description
 -
+	Created using Microsoft Keyboard Layout Creator 1.4
+	
 	Entire EN layout is available inside this layout for convenience via Ctrl+Alt, Ctrl+Alt+Shift,
 	 e.g. Ctrl+Alt+1 gives you '1', Ctrl+Alt+Shift+1 - '!'... etc
 
@@ -12,6 +14,7 @@ Installation
 -
 	Compatibility
 	-
+		? Windows 10 - Haven't tested, but i suppose it should work as well
 		✓ Windows 11
 
 	• Run Setup.exe
