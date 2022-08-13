@@ -20,7 +20,7 @@ Installation
 	• Run Setup.exe
 	• Reboot
 	• Settings > Time & language > Type & region > Language > Russian > ••• > Language options > Keyboards
-		- You should see "Russian (Apple)" in the list, if it's not just add it by clicking "Add a keyboard"
+		- You should see "Russian (Apple)" in the list, if it's not there just add it by clicking "Add a keyboard"
 		- Remove unnecessary layouts
 
 
