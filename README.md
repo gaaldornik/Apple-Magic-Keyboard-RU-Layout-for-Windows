@@ -17,19 +17,16 @@ Installation
 	• Run Setup.exe
 	• Reboot
 	• Settings > Time & language > Type & region > Language > Russian > ••• > Language options > Keyboards
-		- You should see "Russian (Apple)" in the list, 
-		  if it's not just add it by clicking "Add a keyboard"
-		- Remove unnecessary ones
+		- You should see "Russian (Apple)" in the list, if it's not just add it by clicking "Add a keyboard"
+		- Remove unnecessary layouts
 
 
 Uninstallation
 -
-	• Delete custom .dll with the name of layout, e.g. Layout03.dll in
-		C:\Windows\SysWOW64
-		C:\Windows\System32
+	• Delete KBDAMKRU.DLL in C:\Windows\SysWOW64, C:\Windows\System32
 
 	• HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Keyboard Layouts\
 		Remove a0000419 necessary folders in the end
 
 	• HKEY_USERS\...\Software\Microsoft\Installer\Products
-		Use search to find that
+		Use search string 'Russian (Apple Magic Keyboard)' to find exact location
