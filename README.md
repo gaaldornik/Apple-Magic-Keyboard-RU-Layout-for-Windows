@@ -29,7 +29,7 @@ Uninstallation
 	• Delete KBDAMKRU.DLL in C:\Windows\SysWOW64, C:\Windows\System32
 
 	• HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Keyboard Layouts\
-		Remove a0000419 necessary folders in the end
+		Remove a0000<NNN> necessary keys in the end, you can search for 'Russian (Apple)' to find exact keys.
 
 	• HKEY_USERS\...\Software\Microsoft\Installer\Products
 		Use search string 'Russian (Apple Magic Keyboard)' to find exact location
